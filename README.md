@@ -1,7 +1,7 @@
 # CMPUT 301: Lab 8 Participation Exercise
 
 ## Student Details
-- **Full Name:** `Nazar`
+- **Full Name:** `Nazar Popov`
 - **CCID:** `npopov`
 
 ## References and Resources
